@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.sec1{
+    width: 15%;
+    float: left;
+    padding: 2%;
+    margin-left: 5%;
+    
+
+}
+.sec1 img{ 
+    width: 100%;
+}
+.para{
+    width: 30%;
+}
+.tk {
+    width: 20%;
+    color: rgba(51, 128, 0, 0.918);
+    font-size: 40px;
+    text-align: right;
+}
